@@ -38,7 +38,7 @@ MYEWWT подключается к Интернету через WI-Fi и вза
 
 <a id="code"></a>
 # Подробнее о системе и коде
-Здесь и далее находится описание устройства MYEWWT. Информацию о системе умного дома grib technology, особенностях кода прошивки вы можете найти [здесь](https://github.com/zbltrz/MYEWWT/blob/main/CODE.md).
+Здесь и далее находится описание устройства MYEWWT. Информацию о системе умного дома grib technology, особенностях кода прошивки вы можете найти [здесь](https://github.com/grib-technology/grib_myewwt_clock/blob/main/ABOUT.md).
 
 <a id="components"></a>
 # Плата и основные компоненты
