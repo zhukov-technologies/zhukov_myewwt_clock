@@ -3,7 +3,7 @@ Miss You Even When We're Together (MYEWWT) — это основное устр�
 
 ![IMG_7676](https://user-images.githubusercontent.com/84660518/156761977-2611df78-57b0-47a1-8940-1fd69deb85cf.jpg)
 
-ПРИОБРЕСТИ УСТРОЙСТВО МОЖНО НА [WILDBERRIES](https://www.wildberries.ru/catalog/66337720/detail.aspx?targetUrl=SN)
+Приобрести устройство можно на [Wildberries](https://www.wildberries.ru/catalog/66337720/detail.aspx?targetUrl=SN)
 
 ## Содержание
 - [MYEWWT](#myewwt)
@@ -124,9 +124,9 @@ MYEWWT подключается к Интернету через WI-Fi и вза
 <a id="contacts"></a>
 # Контакты
 
-www.grib-tech.ru
+https://grib-tech.ru
 
-ПРИОБРЕСТИ УСТРОЙСТВО МОЖНО НА [WILDBERRIES](https://www.wildberries.ru/catalog/66337720/detail.aspx?targetUrl=SN)
+Приобрести устройство можно на [Wildberries](https://www.wildberries.ru/catalog/66337720/detail.aspx?targetUrl=SN)
 
 [Telegram-канал](t.me/grib_tech) 
 
