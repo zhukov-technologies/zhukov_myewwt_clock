@@ -140,7 +140,7 @@ ESPhttpUpdate.onError(update_error);
 
 и непосредственно сама строчка, отвечающая за связь с сервером и обновление прошивки:
 ```cpp
-t_httpUpdate_return ret = ESPhttpUpdate.update(client, "http://www.myserver.ru/relay_v2.bin");
+t_httpUpdate_return ret = ESPhttpUpdate.update(client, "http://www.myserver.ru/myewwt_v2.bin");
 ```
 
 Функция обновления прошивки справляется с некоторыми внештатными ситуациями и не вызывает поломок и "окирпичивания" модуля: при внезапном отключении питания, обрыве связи с сервером и прочими проблемами прошивка приостанавливается и возобновляется при восстановлении подключения или подключении питания.
