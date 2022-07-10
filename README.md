@@ -1,3 +1,8 @@
+ВНИМАНИЕ! ДАННОЕ УСТРОЙСТВО БОЛЕЕ НЕ ПРОИЗВОДИТСЯ И НЕ ПОДДЕРЖИВАЕТСЯ.
+
+Его функции выполняет реле или розетка, настроенные в режим шлюза. Подробная и актуальная информация [здесь](https://github.com/grib-technology/grib_socket_and_relay).
+
+
 # Miss You Even When We're Together
 Miss You Even When We're Together (MYEWWT) — это основное устройство умного дома grib technology.
 
