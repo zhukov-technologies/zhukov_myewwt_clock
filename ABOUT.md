@@ -1,3 +1,5 @@
+# ВНИМАНИЕ! Данный проект ныне считается устаревшим. Описание актуальных версий будет дополнено в репозиториях [профиля](https://github.com/zhukov-technologies).
+
 - [Умный дом на основе API Telegram](#smart_home)
 - [Прошивка](#firmware)
 - - [Безопасность соединений](#secure)
@@ -9,10 +11,10 @@
 <a id="smart_home"></a>
 # Умный дом на основе API Telegram
 
-Принцип работы системы умного дома grib tehcnology на основе API Telegram.
+Принцип работы системы умного дома zhukov tehcnology на основе API Telegram.
 
-1. Пользователь создаёт своего бота в Telegram при помощи BotFather ([Создание бота в Telegram](https://github.com/grib-technology/grib_myewwt_clock#bot).
-2. Получив токен созданного бота, пользователь сообщает устройству ([Miss You Even When We're Together](https://github.com/grib-technology/grib_myewwt_clock)) (MYEWWT) токен бота а также SSID и пароль Wi-Fi сети ([Настройка MYEWWT](https://github.com/zbltrz/MYEWWT#myewwt_setup)).
+1. Пользователь создаёт своего бота в Telegram при помощи BotFather ([Создание бота в Telegram](https://github.com/zhukov-technologies/zhukov_myewwt_clock#bot).
+2. Получив токен созданного бота, пользователь сообщает устройству ([Miss You Even When We're Together](https://github.com/zhukov-technologies/zhukov_myewwt_clock)) (MYEWWT) токен бота а также SSID и пароль Wi-Fi сети ([Настройка MYEWWT](https://github.com/zbltrz/MYEWWT#myewwt_setup)).
 3. Отправляя сообщение боту, оно обрабатывается устройством MYEWWT.
 4. Если в систему добавлены дополнительные устройства — умные розетки, реле и т.д., команда от бота обрабатывается сначала устройством MYEWWT, затем передаётся подключенным в систему устройствам с применением технологии [ESP-NOW](https://www.espressif.com/en/products/software/esp-now/overview).
 
@@ -35,7 +37,7 @@
 <a id="secure"></a>
 ## Безопасность соединений
 
-В системе умного дома grib technology используются два типа соединений:
+В системе умного дома zhukov technologies используются два типа соединений:
 
 1. От сервера Telegram к шлюзу MYEWWT.
 2. От шлюза MYEWWT к прочим устройствам системы (розетки, реле, выключатели и т.д.).
